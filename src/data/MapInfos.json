@@ -8,5 +8,5 @@ null,
 {"id":6,"expanded":true,"name":"SubTesting Area","order":5,"parentId":5,"scrollX":781.1999999999999,"scrollY":514.8},
 {"id":7,"expanded":false,"name":"SubTesting Area","order":6,"parentId":6,"scrollX":790.8,"scrollY":445.2},
 {"id":8,"expanded":true,"name":"MadManMind","order":8,"parentId":0,"scrollX":781.1999999999999,"scrollY":445.2},
-{"id":9,"expanded":false,"name":"Battle Arena","order":9,"parentId":8,"scrollX":790.8,"scrollY":445.2}
+{"id":9,"expanded":false,"name":"Battle Arena","order":9,"parentId":8,"scrollX":659,"scrollY":371}
 ]
